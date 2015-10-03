@@ -149,6 +149,8 @@
     <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="Matrix_public_test.cpp" />
     <ClCompile Include="Matrix_tests.cpp" />
+    <ClCompile Include="schelling.cpp" />
+    <ClCompile Include="util.cpp" />
     <ClCompile Include="util_tests.cpp" />
   </ItemGroup>
   <ItemGroup>
